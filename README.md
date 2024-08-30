@@ -25,4 +25,4 @@ So lets breakdown the code
 
 10.my code is not very good and there many scope in improvement in it if any body like to commit some changes they are free to  do it and please someone correct my display_score logic i have commented it .
 
-------------------------------------------------------------------------THANK YOU-----------------------------------------------------------------------------------
+------------------------------------------------------------------------THANK YOU------------------------------------------------------------------------
